@@ -66,7 +66,7 @@ if (typeof w === 'object') {
         alert('ACRExtensions is already active.');
     }
 } else {
-    alert('Error: ACRExtensions is not active. Te Amazon Cloud Reader window could not be found.');
+    alert('Error: ACRExtensions is not active. The Amazon Cloud Reader window could not be found.');
 }
 })();
 
